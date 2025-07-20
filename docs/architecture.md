@@ -4,6 +4,21 @@
 
 Dex223 is built as a modern, scalable decentralized exchange using a monorepo architecture with Next.js 15, TypeScript, and a comprehensive tech stack designed for performance, security, and developer experience.
 
+## Development Resources
+
+### Latest Development Status
+- **[Latest Dex223 Development Report (1/1/2025)](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Most recent development progress and updates
+
+### Test Environment
+- **[Test Application](https://test-app.dex223.io)** - Live test environment for Dex223 features
+- **[Swap Interface](https://test-app.dex223.io/en/swap)** - Test Dex223 Swap and Liquidity Provision
+- **Test Tokens**: Available via "Get free tokens" button on test pages
+
+### Development Resources
+- **[GitHub Repository](https://github.com/Dexaran/Dex223-exchange)** - Source code and development
+- **[White Paper (DRAFT)](https://docs.google.com/document/d/1Ndz-kqrz4bZV-VwxnmgTW6jz9QsoKgy3zHehcNNGLYM/edit)** - Technical white paper
+- **[API Integration Reference](https://docs.cdp.coinbase.com/api/reference/onrampofframp_createbuyquote)** - Coinbase Onramp/Offramp API
+
 ## System Architecture
 
 ### Monorepo Structure

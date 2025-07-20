@@ -4,6 +4,20 @@
 
 Dex223 supports a comprehensive range of **50+ EVM-compatible blockchains** to provide users with maximum flexibility and access to diverse liquidity pools across the entire EVM ecosystem. This document outlines the complete multi-chain architecture and configuration focused exclusively on EVM chains.
 
+## Test Environment & Resources
+
+### Live Test Environment
+- **[Test Application](https://test-app.dex223.io)** - Live test environment for Dex223 features
+- **[Swap Interface](https://test-app.dex223.io/en/swap)** - Test Dex223 Swap and Liquidity Provision
+- **Test Tokens**: Available via "Get free tokens" button on test pages
+
+### Test Token Faucets
+- **[Chainlink Sepolia Faucet](https://faucets.chain.link/sepolia)** - Get SepoliaETH test tokens
+- **[Alchemy Sepolia Faucet](https://www.alchemy.com/faucets/ethereum-sepolia)** - Alternative SepoliaETH faucet
+
+### Latest Development Status
+- **[Latest Dex223 Development Report (1/1/2025)](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Most recent development progress and updates
+
 ## Supported EVM Chains
 
 ### Layer 1 Networks

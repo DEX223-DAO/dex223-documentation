@@ -4,6 +4,24 @@
 
 This document outlines the comprehensive AI integration strategy for Dex223, detailing how artificial intelligence will enhance every aspect of the trading experience from smart order routing to personalized recommendations.
 
+## Development Resources
+
+### Latest Development Status
+- **[Latest Dex223 Development Report (1/1/2025)](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Most recent development progress and updates
+
+### Test Environment
+- **[Test Application](https://test-app.dex223.io)** - Live test environment for Dex223 features
+- **[Swap Interface](https://test-app.dex223.io/en/swap)** - Test Dex223 Swap and Liquidity Provision
+- **Test Tokens**: Available via "Get free tokens" button on test pages
+
+### Educational Content
+- **[Encapsulated Margin Trading Concept](https://youtube.com/watch?v=hZW6AIrAznQ)** - Learn about our innovative trading approach
+
+### Community & Support
+- **[Telegram](https://t.me/Dex223_defi)** - Join our community for AI feature discussions
+- **[Discord](https://discord.gg/t5bdeGC5Jk)** - Developer and user community
+- **Email**: Contact@Dex223.io
+
 ## AI Architecture Overview
 
 ### Core AI Components

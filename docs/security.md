@@ -10,6 +10,20 @@ This document outlines the security measures, best practices, and protocols impl
 - **Security by Design**: Security built into every component
 - **Transparency**: Open security practices and audits
 
+## Important Security Resources
+
+### ERC-223 Security Documentation
+- **[ERC-223 Official Documentation](https://eips.ethereum.org/EIPS/eip-223)** - Ethereum Improvement Proposal
+- **[ERC-223 Developer Docs](https://ethereum.org/en/developers/docs/standards/tokens/erc-223/)** - Official Ethereum documentation
+
+### ERC-20 Security Issues
+- **[ERC-20 Issues](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/#erc20-issues)** - Understanding ERC-20 limitations
+- **[ERC-20 Live Losses Calculator](https://dexaran.github.io/erc20-losses)** - Real-time ERC-20 token loss tracking
+
+### Development & Testing
+- **[Test Application](https://test-app.dex223.io)** - Security testing environment
+- **[Latest Development Report](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Security updates and progress
+
 ## Smart Contract Security
 
 ### ERC-223 Standard Benefits

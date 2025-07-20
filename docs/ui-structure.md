@@ -4,6 +4,22 @@
 
 The Dex223 UI is built with a modern, component-based architecture using Next.js 15, React 18, TypeScript, and Tailwind CSS. This document outlines the complete UI structure, component hierarchy, and design system.
 
+## Test Environment & Feedback
+
+### Live Test Environment
+- **[Test Application](https://test-app.dex223.io)** - Live test environment for Dex223 UI features
+- **[Swap Interface](https://test-app.dex223.io/en/swap)** - Test Dex223 Swap and Liquidity Provision UI
+- **Test Tokens**: Available via "Get free tokens" button on test pages
+
+### UI Feedback & Community
+We welcome feedback on the website side panel and all UI features. Please provide feedback through our community channels:
+- **[Telegram](https://t.me/Dex223_defi)** - Community discussions
+- **[Discord](https://discord.gg/t5bdeGC5Jk)** - Developer and user community
+- **Email**: Contact@Dex223.io
+
+### Latest Development Status
+- **[Latest Dex223 Development Report (1/1/2025)](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Most recent development progress and updates
+
 ## Architecture Overview
 
 ### Technology Stack
