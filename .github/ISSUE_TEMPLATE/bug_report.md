@@ -6,30 +6,30 @@ labels: ['bug', 'needs-triage']
 assignees: ''
 ---
 
-## 🐛 Bug Description
+## Bug Description
 
 A clear and concise description of what the bug is.
 
-## 🔄 Steps to Reproduce
+## Steps to Reproduce
 
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-## ✅ Expected Behavior
+## Expected Behavior
 
 A clear and concise description of what you expected to happen.
 
-## ❌ Actual Behavior
+## Actual Behavior
 
 A clear and concise description of what actually happened.
 
-## 📸 Screenshots
+## Screenshots
 
 If applicable, add screenshots to help explain your problem.
 
-## 🖥️ Environment
+## Environment
 
 **Desktop (please complete the following information):**
 - OS: [e.g. macOS, Windows, Linux]
@@ -42,7 +42,7 @@ If applicable, add screenshots to help explain your problem.
 - Browser: [e.g. stock browser, safari]
 - Version: [e.g. 22]
 
-## 🔧 Additional Context
+## Additional Context
 
 Add any other context about the problem here, such as:
 - Wallet type and version
@@ -51,7 +51,7 @@ Add any other context about the problem here, such as:
 - Console errors
 - Network tab errors
 
-## 📋 Checklist
+## Checklist
 
 - [ ] I have searched existing issues to avoid duplicates
 - [ ] I have provided all required information
@@ -59,10 +59,10 @@ Add any other context about the problem here, such as:
 - [ ] I have tested on multiple browsers/devices
 - [ ] I have checked the console for errors
 
-## 🔗 Related Issues
+## Related Issues
 
 Link to any related issues or pull requests.
 
 ---
 
-**Thank you for helping improve Dex223! 🚀** 
+**Thank you for helping improve Dex223!** 

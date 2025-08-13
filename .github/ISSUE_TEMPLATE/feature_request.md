@@ -6,23 +6,23 @@ labels: ['enhancement', 'needs-triage']
 assignees: ''
 ---
 
-## 💡 Feature Description
+## Feature Description
 
 A clear and concise description of the feature you'd like to see implemented.
 
-## 🎯 Problem Statement
+## Problem Statement
 
 A clear and concise description of what problem this feature would solve. For example: "I'm always frustrated when [...]"
 
-## 💭 Proposed Solution
+## Proposed Solution
 
 A clear and concise description of what you want to happen.
 
-## 🔄 Alternative Solutions
+## Alternative Solutions
 
 A clear and concise description of any alternative solutions or features you've considered.
 
-## 📊 Use Cases
+## Use Cases
 
 Describe the specific use cases where this feature would be valuable:
 
@@ -30,11 +30,11 @@ Describe the specific use cases where this feature would be valuable:
 2. **Use Case 2**: Another scenario where this feature is needed
 3. **Use Case 3**: Additional use case if applicable
 
-## 🎨 Mockups/Examples
+## Mockups/Examples
 
 If applicable, add mockups, screenshots, or examples of similar features from other platforms.
 
-## 🔧 Technical Considerations
+## Technical Considerations
 
 Any technical considerations or requirements for implementing this feature:
 
@@ -43,7 +43,7 @@ Any technical considerations or requirements for implementing this feature:
 - **Integration Points**: How does this integrate with existing features?
 - **Backward Compatibility**: Impact on existing functionality?
 
-## 📈 Impact Assessment
+## Impact Assessment
 
 **High Impact** - This feature would significantly improve the user experience for many users.
 
@@ -51,7 +51,7 @@ Any technical considerations or requirements for implementing this feature:
 
 **Low Impact** - This feature would be nice to have but not critical.
 
-## 🏷️ Feature Category
+## Feature Category
 
 - [ ] **UI/UX Enhancement** - Improvements to user interface or experience
 - [ ] **Trading Features** - New trading capabilities or improvements
@@ -65,7 +65,7 @@ Any technical considerations or requirements for implementing this feature:
 - [ ] **Community Features** - Social or community-related features
 - [ ] **Other** - Please specify
 
-## 📋 Implementation Priority
+## Implementation Priority
 
 **High Priority** - This feature is critical for the success of the platform.
 
@@ -73,15 +73,15 @@ Any technical considerations or requirements for implementing this feature:
 
 **Low Priority** - This feature would be nice to have when resources allow.
 
-## 🔗 Related Features
+## Related Features
 
 Link to any related features, issues, or discussions.
 
-## 📚 Additional Context
+## Additional Context
 
 Add any other context, references, or documentation about the feature request.
 
-## 📋 Checklist
+## Checklist
 
 - [ ] I have searched existing issues to avoid duplicates
 - [ ] I have provided a clear problem statement
@@ -92,6 +92,6 @@ Add any other context, references, or documentation about the feature request.
 
 ---
 
-**Thank you for your feature request! 🚀**
+**Thank you for your feature request!**
 
 Your suggestions help make Dex223 the best decentralized exchange possible. 

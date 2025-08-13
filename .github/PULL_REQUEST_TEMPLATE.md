@@ -1,28 +1,28 @@
-## 📋 Pull Request Description
+## Pull Request Description
 
 A clear and concise description of what this pull request does.
 
-## 🎯 Related Issue
+## Related Issue
 
 Closes #[issue number]
 
-## 🔄 Type of Change
+## Type of Change
 
 What types of changes does your code introduce? Put an `x` in all the boxes that apply:
 
-- [ ] 🐛 Bug fix (non-breaking change which fixes an issue)
-- [ ] ✨ New feature (non-breaking change which adds functionality)
-- [ ] 💥 Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] 📚 Documentation update
-- [ ] 🎨 Style update (formatting, missing semi colons, etc; no logic change)
-- [ ] ♻️ Refactoring (no functional changes, code improvements)
-- [ ] ⚡ Performance improvements
-- [ ] 🧪 Test updates
-- [ ] 🔧 Configuration changes
-- [ ] 🏗️ Build system changes
-- [ ] 📦 Dependency updates
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Documentation update
+- [ ] Style update (formatting, missing semi colons, etc; no logic change)
+- [ ] Refactoring (no functional changes, code improvements)
+- [ ] Performance improvements
+- [ ] Test updates
+- [ ] Configuration changes
+- [ ] Build system changes
+- [ ] Dependency updates
 
-## 🧪 Testing
+## Testing
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration.
 
@@ -38,7 +38,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - **Node.js Version**: [e.g. 18.0.0]
 - **Browser**: [e.g. Chrome, Firefox, Safari]
 
-## 📸 Screenshots
+## Screenshots
 
 If applicable, add screenshots to help explain your changes.
 
@@ -48,7 +48,7 @@ If applicable, add screenshots to help explain your changes.
 ### After
 ![After screenshot](url)
 
-## 🔧 Implementation Details
+## Implementation Details
 
 ### Changes Made
 
@@ -71,7 +71,7 @@ If applicable, add screenshots to help explain your changes.
 - [ ] Error handling implemented
 - [ ] No sensitive data exposed
 
-## 📊 Performance Impact
+## Performance Impact
 
 - [ ] No performance impact
 - [ ] Performance improved
@@ -79,7 +79,7 @@ If applicable, add screenshots to help explain your changes.
 
 **If performance degraded, please explain:**
 
-## 🔗 Dependencies
+## Dependencies
 
 ### New Dependencies
 
@@ -109,7 +109,7 @@ If applicable, add screenshots to help explain your changes.
 }
 ```
 
-## 📚 Documentation
+## Documentation
 
 - [ ] Documentation is updated
 - [ ] No documentation changes needed
@@ -117,7 +117,7 @@ If applicable, add screenshots to help explain your changes.
 
 **If documentation updated, please specify:**
 
-## 🚀 Deployment
+## Deployment
 
 ### Environment
 
@@ -129,7 +129,7 @@ If applicable, add screenshots to help explain your changes.
 
 Any special instructions for deployment or rollback.
 
-## 📋 Checklist
+## Checklist
 
 Before submitting this PR, please make sure:
 
@@ -145,7 +145,7 @@ Before submitting this PR, please make sure:
 - [ ] I have read and agree to the [Contributing Guidelines](../CONTRIBUTING.md)
 - [ ] I have read and agree to the [Code of Conduct](../CODE_OF_CONDUCT.md)
 
-## 🔍 Review Guidelines
+## Review Guidelines
 
 ### For Reviewers
 
@@ -164,16 +164,16 @@ Please check:
 Please use the following format for review comments:
 
 - **Question**: Use `?` for questions about the code
-- **Suggestion**: Use `💡` for suggestions
-- **Issue**: Use `⚠️` for issues that need to be addressed
-- **Praise**: Use `👍` for good work
+- **Suggestion**: Use `?` for suggestions
+- **Issue**: Use `!` for issues that need to be addressed
+- **Praise**: Use `+` for good work
 
-## 📞 Additional Information
+## Additional Information
 
 Any additional information that reviewers should know about this PR.
 
 ---
 
-**Thank you for contributing to Dex223! 🚀**
+**Thank you for contributing to Dex223!**
 
 Your contributions help make Dex223 the best decentralized exchange possible. 

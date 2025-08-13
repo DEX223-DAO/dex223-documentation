@@ -2,19 +2,19 @@
 
 Thank you for your interest in contributing to Dex223! This document provides guidelines and information for contributors.
 
-## 🤝 How to Contribute
+## How to Contribute
 
 We welcome contributions from the community in many forms:
 
-- 🐛 **Bug Reports**: Help us identify and fix issues
-- 💡 **Feature Requests**: Suggest new features and improvements
-- 📝 **Documentation**: Improve our documentation
-- 🔧 **Code Contributions**: Submit pull requests with code changes
-- 🧪 **Testing**: Help test features and report issues
-- 🌐 **Translation**: Help translate documentation to other languages
-- 📢 **Community Support**: Help other users in our community channels
+- **Bug Reports**: Help us identify and fix issues
+- **Feature Requests**: Suggest new features and improvements
+- **Documentation**: Improve our documentation
+- **Code Contributions**: Submit pull requests with code changes
+- **Testing**: Help test features and report issues
+- **Translation**: Help translate documentation to other languages
+- **Community Support**: Help other users in our community channels
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
 - [Getting Started](#getting-started)
@@ -26,11 +26,11 @@ We welcome contributions from the community in many forms:
 - [Issue Guidelines](#issue-guidelines)
 - [Community Guidelines](#community-guidelines)
 
-## 📜 Code of Conduct
+## Code of Conduct
 
 By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -52,7 +52,7 @@ By participating in this project, you agree to abide by our [Code of Conduct](CO
    git remote add upstream https://github.com/Dexaran/dex223-documentation.git
    ```
 
-## 🔧 Development Setup
+## Development Setup
 
 ### Installation
 
@@ -96,7 +96,7 @@ NEXT_PUBLIC_RPC_URL=https://eth-mainnet.g.alchemy.com/v2/YOUR_KEY
 NEXT_PUBLIC_ANALYTICS_ID=your_analytics_id
 ```
 
-## 🔄 Pull Request Process
+## Pull Request Process
 
 ### Before Submitting
 
@@ -159,7 +159,7 @@ docs: update API documentation
 test: add unit tests for swap function
 ```
 
-## 📝 Code Style Guidelines
+## Code Style Guidelines
 
 ### TypeScript
 
@@ -197,7 +197,7 @@ src/
 └── pages/              # Page components
 ```
 
-## 🧪 Testing Guidelines
+## Testing Guidelines
 
 ### Test Types
 
@@ -220,7 +220,7 @@ src/
 - Include error scenarios
 - Test edge cases
 
-## 📚 Documentation Guidelines
+## Documentation Guidelines
 
 ### Documentation Standards
 
@@ -243,7 +243,7 @@ src/
 - Provide context and explanations
 - Use consistent terminology
 
-## 🐛 Issue Guidelines
+## Issue Guidelines
 
 ### Bug Reports
 
@@ -265,7 +265,7 @@ When requesting features, please include:
 3. **Implementation suggestions** (optional)
 4. **Mockups or examples** (if applicable)
 
-## 🌐 Community Guidelines
+## Community Guidelines
 
 ### Communication Channels
 
@@ -283,7 +283,7 @@ When requesting features, please include:
 - Follow project guidelines
 - Report inappropriate behavior
 
-## 🏆 Recognition
+## Recognition
 
 Contributors will be recognized in:
 
@@ -292,7 +292,7 @@ Contributors will be recognized in:
 - **Community shoutouts** for exceptional work
 - **Special mentions** in project updates
 
-## 📞 Getting Help
+## Getting Help
 
 If you need help with contributing:
 
@@ -302,12 +302,12 @@ If you need help with contributing:
 4. Join our [Telegram community](https://t.me/Dex223_defi)
 5. Contact us at Contact@Dex223.io
 
-## 📄 License
+## License
 
 By contributing to Dex223, you agree that your contributions will be licensed under the [GPL-3.0 License](LICENSE).
 
 ---
 
-**Thank you for contributing to Dex223! 🚀**
+**Thank you for contributing to Dex223!**
 
 Your contributions help make Dex223 the best decentralized exchange possible. 

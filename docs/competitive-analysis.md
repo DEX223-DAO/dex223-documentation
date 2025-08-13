@@ -97,7 +97,7 @@ Dex223 positions itself as a revolutionary decentralized exchange that combines 
 | **Cross-Chain Swaps** | Planned | Limited | No | Yes |
 | **Social Trading** | Planned | No | No | Limited |
 
-## 🏆 Competitive Positioning
+## Competitive Positioning
 
 ### Market Positioning Strategy
 
@@ -163,7 +163,7 @@ Dex223 can position itself as:
 - Cross-chain bridges create switching costs
 - Unified portfolio across chains
 
-## 📈 Growth Opportunities
+## Growth Opportunities
 
 ### 1. Market Expansion
 
