@@ -7,7 +7,7 @@ Dex223 is built as a modern, scalable decentralized exchange using a monorepo ar
 ## Development Resources
 
 ### Latest Development Status
-- **[Latest Dex223 Development Report (1/1/2025)](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Most recent development progress and updates
+- **[Latest Dex223 Development Report (June-July 2025)](https://gist.github.com/Dexaran/108b78e597fccb4ec9947dcd4df7ac95)** - Most recent development progress and updates
 
 ### Test Environment
 - **[Test Application](https://test-app.dex223.io)** - Live test environment for Dex223 features

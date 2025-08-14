@@ -174,7 +174,7 @@ Dex223 supports **50+ EVM-compatible blockchains** including:
 </div>
 
 ### Latest Development Updates
-- **[Latest Dex223 Development Report (1/1/2025)](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Most recent development progress and updates
+- **[Latest Dex223 Development Report (June-July 2025)](https://gist.github.com/Dexaran/108b78e597fccb4ec9947dcd4df7ac95)** - Most recent development progress and updates
 
 ### Test Environment
 - **[Test Application](https://test-app.dex223.io)** - Try Dex223 features on testnet
@@ -282,12 +282,23 @@ dex223/
 | **POSITION_MANAGER** | [0x091249267d085055fa2f281fa3f6c0cf4bf70bae](https://sepolia.etherscan.io/address/0x091249267d085055fa2f281fa3f6c0cf4bf70bae#code) | Position management |
 | **POOL_USDC_WETH** | [0x3B2E627DbDd6B8cc2CbA9B71154b32C9bb5Ed5d3](https://sepolia.etherscan.io/address/0x3B2E627DbDd6B8cc2CbA9B71154b32C9bb5Ed5d3#code) | USDC/WETH liquidity pool |
 
+#### **Core Contracts (Ethereum Mainnet)**
+| Contract | Address | Description |
+|:---:|:---:|:---:|
+| **WETH9** | [0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2](https://etherscan.io/address/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2#code) | Wrapped Ether |
+| **TOKEN_CONVERTER** | [0xe7E969012557f25bECddB717A3aa2f4789ba9f9a](https://etherscan.io/address/0xe7E969012557f25bECddB717A3aa2f4789ba9f9a#code) | ERC-20 to ERC-223 converter |
+| **POOL_LIBRARY** | [0xfA5930D2Ef1b6231e220aeDda88E28C4E8F0F3a0](https://etherscan.io/address/0xfA5930D2Ef1b6231e220aeDda88E28C4E8F0F3a0#code) | Pool calculation library |
+| **FACTORY** | [0x8dae173016f65F61e90631Ee5f28C9E47b1ebc06](https://etherscan.io/address/0x8dae173016f65F61e90631Ee5f28C9E47b1ebc06#code) | Pool factory contract |
+| **SWAP_ROUTER** | [0xbeBAB9Ab58f8099fbFEb15E14b663615D19304Fa](https://etherscan.io/address/0xbeBAB9Ab58f8099fbFEb15E14b663615D19304Fa#code) | Swap routing contract |
+| **POSITION_MANAGER** | [0xFd4cE11db9db9433286734304049526E9336139E](https://etherscan.io/address/0xFd4cE11db9db9433286734304049526E9336139E#code) | Position management |
+| **POOL_USDC_WETH** | [0x82Cc735b39a3992be7b47bEb9AE7519aC92ed562](https://etherscan.io/address/0x82Cc735b39a3992be7b47bEb9AE7519aC92ed562#code) | USDC/WETH liquidity pool |
+
 #### **Auto-Listing Contracts (Ethereum Mainnet)**
 | Contract | Address | Description |
 |:---:|:---:|:---|
-| **CORE_AUTOLISTING** | [0x5c24027303865b744f2794945aee88eA56F1F5ee](https://etherscan.io/address/0x5c24027303865b744f2794945aee88eA56F1F5ee) | Core auto-listing contract |
-| **FREE_AUTOLISTING** | [0x8D13f2795228aB18faeFBdF9461E7E46b5853Bc5](https://etherscan.io/address/0x8D13f2795228aB18faeFBdF9461E7E46b5853Bc5) | Free auto-listing contract |
-| **AUTOLISTINGS_REGISTRY** | [0xF3129265872004bD235de4Ac5e312254D962cC38](https://etherscan.io/address/0xF3129265872004bD235de4Ac5e312254D962cC38) | Auto-listing registry |
+| **CORE_AUTOLISTING** | [0x029f10E06Dc7d6264f9432ACA3F52572543c48e0](https://etherscan.io/address/0x029f10E06Dc7d6264f9432ACA3F52572543c48e0) | Core auto-listing contract |
+| **FREE_AUTOLISTING** | [0xa7089d8cbcc47543388a346dd6ebf0b05106a477](https://etherscan.io/address/0xa7089d8cbcc47543388a346dd6ebf0b05106a477) | Free auto-listing contract |
+| **AUTOLISTINGS_REGISTRY** | [0x105F43A70aFCEd0493545D04C1d5687DF4b3f48f](https://etherscan.io/address/0x105F43A70aFCEd0493545D04C1d5687DF4b3f48f) | Auto-listing registry |
 
 ## Documentation
 

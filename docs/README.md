@@ -56,7 +56,7 @@ Welcome to the comprehensive documentation for Dex223 - The Future-Proof Decentr
 ## Important Resources
 
 ### Development Resources
-- **[Latest Development Report](https://gist.github.com/Dexaran/c479c626a1af52853f5e396d2b7fcf9f)** - Most recent updates
+- **[Latest Development Report](https://gist.github.com/Dexaran/108b78e597fccb4ec9947dcd4df7ac95)** - Most recent updates
 - **[GitHub Contracts](https://github.com/EthereumCommonwealth/Dex223-contracts)** - Smart contracts repository
 - **[GitHub UI](https://github.com/EthereumCommonwealth/Dex223-UI)** - Frontend repository
 - **[White Paper](https://docs.google.com/document/d/1Ndz-kqrz4bZV-VwxnmgTW6jz9QsoKgy3zHehcNNGLYM/edit)** - Technical white paper
