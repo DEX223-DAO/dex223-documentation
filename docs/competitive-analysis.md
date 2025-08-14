@@ -9,13 +9,25 @@ Dex223 positions itself as a revolutionary decentralized exchange that combines 
 ### Latest Development Report
 - **[Latest Dex223 Development Report (June-July 2025)](https://gist.github.com/Dexaran/108b78e597fccb4ec9947dcd4df7ac95)** - Most recent development progress and updates
 
+### Current Development Status (June-July 2025)
+- **Core Platform**: Production ready since June 2025, awaiting quality analysis team approval
+- **Margin Module**: Working prototype with ongoing Oracle improvements and UI development
+- **Revenue Contracts**: Built but awaiting UI implementation
+- **Production App**: Available at [app.dex223.io](https://app.dex223.io) with finalized core features
+
 ### Live Test Environment
 - **[Test Application](https://test-app.dex223.io)** - Live test environment for Dex223 features
 - **[Swap Interface](https://test-app.dex223.io/en/swap)** - Test Dex223 Swap and Liquidity Provision
+- **[Margin Trading Interface](https://test-app.dex223.io/en/margin-trading)** - Test margin trading features
 - **Test Tokens**: Available via "Get free tokens" button on test pages
+
+### Margin Module Testing
+- **[Trader Contract](https://sepolia.etherscan.io/address/0xBca81278ff25E0BA088fcdFd3E2D798CDC3D2358)** - Special testing contract for margin scenarios
+- **[Latest Oracle](https://sepolia.etherscan.io/address/0xc569D09E6de44679A2a7f1a31CC82eEB5feA0dC3)** - Most up-to-date Oracle for testing
 
 ### Market Presence
 - **[Where to Buy](https://www.dex223.io)** - Official trading platform
+- **[Production App](https://app.dex223.io)** - Live production platform
 - **[Market Valuation](https://coinmarketcap.com/currencies/dex223/)** - CoinMarketCap listing and details
 
 ## Key Differentiators

@@ -20,7 +20,22 @@ We welcome feedback on the website side panel and all UI features. Please provid
 ### Latest Development Status
 - **[Latest Dex223 Development Report (June-July 2025)](https://gist.github.com/Dexaran/108b78e597fccb4ec9947dcd4df7ac95)** - Most recent development progress and updates
 
+### Current UI Status (June-July 2025)
+- **Core Platform**: UI finalized with all tooltips and bug fixes completed
+- **Margin Module**: UI in active development with ongoing updates
+- **Production App**: Available at [app.dex223.io](https://app.dex223.io) with production-ready core features
+- **Design System**: Updated to support new interactive elements and margin module requirements
+
 ## Architecture Overview
+
+### Recent UI Updates (June-July 2025)
+- **Design System**: Updated to support new interactive elements like buttons, dropdowns, etc.
+- **Margin Swap UI**: Updated to display positions that users are swapping from
+- **Token Importing**: Significantly simplified for better user experience
+- **Core UI**: Finalized with missing tooltips and minor bugs fixed
+- **Liquidation Risks**: New page added for margin trading risk assessment
+- **Position Health Status**: Implemented based on competitor research for user familiarity
+- **Manual Liquidation**: UI feature created for manual position liquidation
 
 ### Technology Stack
 - **Framework**: Next.js 15 with App Router
@@ -36,6 +51,10 @@ We welcome feedback on the website side panel and all UI features. Please provid
 - **Performance**: Optimized for Core Web Vitals
 - **Consistency**: Unified design system across all components
 - **Scalability**: Modular component architecture
+
+### Design Resources
+- **[Core Platform Figma](https://www.figma.com/design/8ogeGWWFTcmjUBDWXLlIMU/DEX223-Exchange---All-mockups---Current-version--Copy-?node-id=2460-62488&t=uPJgy4R8eJIXHMq7-1)** - Complete UI/UX mockups
+- **[Margin Module Figma](https://www.figma.com/design/dcgcSLN3cQKtq3umsEsK0C/Margin-module--Copy-?node-id=0-1&t=BJiFJOPtSyIULLHT-1)** - Margin trading interface designs
 
 ## Component Hierarchy
 

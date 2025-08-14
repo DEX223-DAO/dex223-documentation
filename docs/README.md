@@ -61,16 +61,30 @@ Welcome to the comprehensive documentation for Dex223 - The Future-Proof Decentr
 - **[GitHub UI](https://github.com/EthereumCommonwealth/Dex223-UI)** - Frontend repository
 - **[White Paper](https://docs.google.com/document/d/1Ndz-kqrz4bZV-VwxnmgTW6jz9QsoKgy3zHehcNNGLYM/edit)** - Technical white paper
 
+### Current Development Status
+- **Core Platform**: Production ready since June 2025, awaiting quality analysis team approval
+- **Margin Module**: Working prototype with ongoing Oracle improvements and UI development
+- **Revenue Contracts**: Built but awaiting UI implementation
+- **Production App**: Available at [app.dex223.io](https://app.dex223.io) with finalized core features
+
 ### Test Environment
 - **[Test Application](https://test-app.dex223.io)** - Live test environment
 - **[Swap Interface](https://test-app.dex223.io/en/swap)** - Test trading features
+- **[Margin Trading Interface](https://test-app.dex223.io/en/margin-trading)** - Test margin trading features
 - **[Test Token Faucets](https://faucets.chain.link/sepolia)** - Get free test tokens
+
+### Margin Module Testing
+- **[Trader Contract](https://sepolia.etherscan.io/address/0xBca81278ff25E0BA088fcdFd3E2D798CDC3D2358)** - Special testing contract for margin scenarios
+- **[Latest Oracle](https://sepolia.etherscan.io/address/0xc569D09E6de44679A2a7f1a31CC82eEB5feA0dC3)** - Most up-to-date Oracle for testing
 
 ### Community & Support
 - **[Telegram](https://t.me/Dex223_defi)** - Community chat
 - **[Discord](https://discord.gg/t5bdeGC5Jk)** - Developer discussions
 - **[Twitter](https://x.com/Dex_223)** - Latest updates
 - **[Email](mailto:Contact@Dex223.io)** - Direct contact
+
+### Production Environment
+- **[Production App](https://app.dex223.io)** - Live production platform with finalized core features
 
 ## Deployed Contracts
 
@@ -249,6 +263,10 @@ This documentation is licensed under the MIT License for maximum accessibility -
 - Frontend application is open source under GPL-3.0
 - Documentation is provided under MIT License for maximum accessibility
 - Commercial use requires compliance with GPL-3.0 terms
+
+### Design Resources
+- **[Core Platform Figma](https://www.figma.com/design/8ogeGWWFTcmjUBDWXLlIMU/DEX223-Exchange---All-mockups---Current-version--Copy-?node-id=2460-62488&t=uPJgy4R8eJIXHMq7-1)** - Complete UI/UX mockups
+- **[Margin Module Figma](https://www.figma.com/design/dcgcSLN3cQKtq3umsEsK0C/Margin-module--Copy-?node-id=0-1&t=BJiFJOPtSyIULLHT-1)** - Margin trading interface designs
 
 ---
 
